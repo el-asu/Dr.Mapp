@@ -1,1 +1,5 @@
-﻿streamlitpandasfoliumgeopy.distancestreamlit.components.v1
+﻿streamlit
+pandas
+folium
+geopy.distance
+streamlit.components.v1
