@@ -11,7 +11,7 @@ st.header('¡Podemos ayudarte a encontrar el establecimiento de salud más cerca
 
 
 # Cargo los datos del rígido
-filepath_HD = '/Users/asuajea/Dropbox/Agustin_Dx/Learning/Diplodatos/Mentoría/Entregables/App_mapa/nomb_geoloc_limpios.csv'
+filepath_HD = 'nomb_geoloc_limpios.csv'
 df = pd.read_csv(filepath_HD)
 df.dropna(inplace=True)
 
