@@ -6,7 +6,7 @@ import pandas as pd
 import folium
 from geopy.distance import geodesic
 
-st.title('Salud a la mano')
+st.title('Doctor Voy')
 st.header('¡Podemos ayudarte a encontrar el establecimiento de salud más cercano! \nSólo debes conocer tu latitud y longitud.')
 
 
