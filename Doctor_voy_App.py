@@ -1,4 +1,4 @@
-#Salud a la mano - App
+#Doctor Voy - App
 
 # Cargamos las librerías necesarias
 import streamlit as st
