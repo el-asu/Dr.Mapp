@@ -7,7 +7,10 @@ import folium
 from geopy.distance import geodesic
 from geopy.geocoders import Nominatim
 
-# Inject CSS to change background color
+# Igresamos valores iniciales por defecto para que la página no de error
+coordenadas = (-27.77392042365015, -64.31305325737927)
+
+# Fefinimos el fondo
 page_bg_img = '''
 <style>
 .stApp {
@@ -15,8 +18,6 @@ page_bg_img = '''
 }
 </style>
 '''
-
-# Inject the custom CSS into the Streamlit app
 st.markdown(page_bg_img, unsafe_allow_html=True)
 
 
