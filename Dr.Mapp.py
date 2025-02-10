@@ -1,4 +1,5 @@
-# Doctor Voy - App
+# Dr. Mapp
+# Access app via: https://drmapp.streamlit.app/
 
 # Cargamos las librerías necesarias
 import streamlit as st
