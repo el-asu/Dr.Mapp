@@ -1,4 +1,4 @@
-# Doctor Voy - App
+# Dr. Mapp
 
 # Cargamos las librerías necesarias
 import streamlit as st
